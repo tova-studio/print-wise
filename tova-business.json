@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:53:39.864Z",
+  "slug": "printwise",
+  "name": "Print Wise",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Printers & copy shops",
+    "niche": "printers & copy shops",
+    "group": "Other services"
+  },
+  "contact": {
+    "phone": "+6433813804",
+    "email": "richard@printwise.co.nz",
+    "address": "6 Washington Way, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/313792769011890"
+  },
+  "about": {
+    "overview": "Print Wise does it all! Digital/Offset printing, full design service and stock management. All at ninja fast speed. Contact us today.",
+    "tagline": "Print Wise | Christchurch Printer",
+    "services": [
+      "Digital",
+      "Offset",
+      "Finishing",
+      "Design",
+      "Print",
+      "Stock"
+    ]
+  },
+  "before": {
+    "url": "http://www.printwise.co.nz/",
+    "domain": "printwise.co.nz",
+    "finalUrl": "http://www.printwise.co.nz/",
+    "title": "Print Wise | Christchurch Printer",
+    "pages": 4,
+    "score": 36,
+    "assessedAt": "2026-11-11T13:49:27.892Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.printwise.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/print-wise/",
+    "repoUrl": "https://github.com/tova-studio/print-wise",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:53:39.864Z"
+  }
+}
